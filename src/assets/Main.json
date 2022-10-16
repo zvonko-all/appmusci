@@ -1,0 +1,414 @@
+{
+    "code": 200,
+    "msg": "ok",
+    "data": [
+        {
+            "TestCases": {
+                "imgUrl": "https://p2.music.126.net/YJ72-pBKMlCrV_mQ5eyXzw==/109951167571655726.jpg?param=130y130",
+                "song": "钢琴协奏曲",
+                "songer": "肖邦"
+            },
+            "playList": [
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/MidIcon/pre.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/MidIcon/play.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/MidIcon/next.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/MidIcon/stop.png"
+            ],
+            "bottomCases": [
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/BottomIcon/playList.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/BottomIcon/play.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/BottomIcon/next.png",
+                "http://www.guozipeng.tk/AppMusic/Imags/Icon/BottomIcon/stop.png"
+            ]
+        },
+        {
+            "TopRecommend": {
+                "MainImg": [
+                    "http://www.guozipeng.tk/AppMusic/Imags/TOP_IMAGS_E1.JPG",
+                    "http://www.guozipeng.tk/AppMusic/Imags/TOP_IMAGS_E2.JPG",
+                    "http://www.guozipeng.tk/AppMusic/Imags/TOP_IMAGS_E3.JPG",
+                    "http://www.guozipeng.tk/AppMusic/Imags/TOP_IMAGS_E4.JPG",
+                    "http://www.guozipeng.tk/AppMusic/Imags/TOP_IMAGS_E5.JPG"
+                ],
+                "MainTextAndImg": [
+                    {
+                        "text": "私人FM",
+                        "IconImg": "http://www.guozipeng.tk/AppMusic/Imags/REC-E1.png"
+                    },
+                    {
+                        "text": "每日歌曲推荐",
+                        "IconImg": "http://www.guozipeng.tk/AppMusic/Imags/REC-E2.png"
+                    },
+                    {
+                        "text": "云音乐新歌榜",
+                        "IconImg": "http://www.guozipeng.tk/AppMusic/Imags/REC-E3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "BottomRecommend": [
+    {
+        "ImgName": "QQDJ舞曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/c04ce0092e3acea25edce49a4ffcc022.PNG"
+    },
+    {
+        "ImgName": "QQK歌金曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/156f2794d8dd3bc246e0d0a1b5d987d1.PNG"
+    },
+    {
+        "ImgName": "QQ内地榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/ae9f60b7b69a282dd6bf8548ad58e672.PNG"
+    },
+    {
+        "ImgName": "QQ动漫音乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/baeb123399f2cca50dbfdf04f6d84d26.PNG"
+    },
+    {
+        "ImgName": "QQ台湾地区榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/58e1b79c6082c93c1d74736bc40d22fb.PNG"
+    },
+    {
+        "ImgName": "QQ听歌识曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6589571467058c9539e7c6a0e15bd3c8.PNG"
+    },
+    {
+        "ImgName": "QQ国风热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/bec3193f824cf14715780b360542deb7.PNG"
+    },
+    {
+        "ImgName": "QQ大学生音乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/61787a466a6b8342e573aca1ef6563ed.PNG"
+    },
+    {
+        "ImgName": "QQ屋推荐音乐",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/78672c2d5fd2c37dfb7cd8a9df1f5aef.PNG"
+    },
+    {
+        "ImgName": "QQ影视金曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/458a66303ec4f886f33943298caddde4.PNG"
+    },
+    {
+        "ImgName": "QQ快手排行榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/81784f342b7bcaa746506de8a7f88703.PNG"
+    },
+    {
+        "ImgName": "QQ抖音排行榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/a43266ac5d8bdcd65ff25410400ccbcd.PNG"
+    },
+    {
+        "ImgName": "QQ新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/c91d0d3a523c1434e71214237c758b68.PNG"
+    },
+    {
+        "ImgName": "QQ欧美榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/54c187b407d8e49192e222d4a6245a99.PNG"
+    },
+    {
+        "ImgName": "QQ流行指数榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/4a90b0ab6e737fc91ade33714edcfa7e.PNG"
+    },
+    {
+        "ImgName": "QQ游戏音乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9fbcc397e7f0234e92dda4d3f058a74e.PNG"
+    },
+    {
+        "ImgName": "QQ热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/a851628b5648c8424bb23cd868234528.PNG"
+    },
+    {
+        "ImgName": "QQ电音榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/db1d6131f8bd4cc1ab06f836cae00cb4.PNG"
+    },
+    {
+        "ImgName": "QQ网络歌曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/516fd60261574803460825493ededd5d.PNG"
+    },
+    {
+        "ImgName": "QQ达人音乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6a9e717efdc4e7f6fc64d0b2d695edb9.PNG"
+    },
+    {
+        "ImgName": "QQ韩国榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/197ec4677315e47ec58879c29b9fc6f7.PNG"
+    },
+    {
+        "ImgName": "QQ飙升榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/31eb66bc1ba48082c709c379e9108cbf.PNG"
+    },
+    {
+        "ImgName": "QQ香港地区榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6442bcf636b8ce45e2e8f31b847ddcee.PNG"
+    },
+    {
+        "ImgName": "发烧红歌 HIFI音质",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/5b89b5b0106ae9e375f08d0bdbc07279.PNG"
+    },
+    {
+        "ImgName": "古典榜TOP100",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/0bb27fc1e728edb8ba61c3379d5fd80d.PNG"
+    },
+    {
+        "ImgName": "影视榜TOP100",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/b343d504576a8a248a8c8a4c444668ed.PNG"
+    },
+    {
+        "ImgName": "抖音榜TOP100",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/7420285d9f61d8ec2c2f6fddb00ad500.PNG"
+    },
+    {
+        "ImgName": "新歌榜TOP100",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/e0c6db98b1d6a09cd3f508f9c496e7c0.PNG"
+    },
+    {
+        "ImgName": "正在播放",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/acf254fcb74bdc9cafc1f2fdc90f77ea.PNG"
+    },
+    {
+        "ImgName": "热歌榜TOP200",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/d664a599ad187092e64247acbfae5847.PNG"
+    },
+    {
+        "ImgName": "网易ACG VOCALOID榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/62fcae71d632b22f745b77f618bce9b0.PNG"
+    },
+    {
+        "ImgName": "网易ACG动画榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/c710f2812db4f1dcdc6d68b660e61a75.PNG"
+    },
+    {
+        "ImgName": "网易ACG榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/d127aa11b9fb2a85c76b8bf54b360ced.PNG"
+    },
+    {
+        "ImgName": "网易ACG游戏榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/a91019eaaf13d774b0459bec4c84531b.PNG"
+    },
+    {
+        "ImgName": "网易Beatport全球电子舞曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/8ade3de43bc0de0f18d02b33c8de0329.PNG"
+    },
+    {
+        "ImgName": "网易UK排行周榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/79ee22003b1a09778d691b383afdf01f.PNG"
+    },
+    {
+        "ImgName": "网易中文DJ榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/e37a1e55b1849708f99d84690f6f9829.PNG"
+    },
+    {
+        "ImgName": "网易乡村音乐排行榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9fc791400de20ec568a0d795f23615c0.PNG"
+    },
+    {
+        "ImgName": "网易原创榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6bc4c5f4b27f87a6f6297d518796d12a.PNG"
+    },
+    {
+        "ImgName": "网易古典榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/7a8e526e80ecc3740c1d1db2f0de11a6.PNG"
+    },
+    {
+        "ImgName": "网易古风榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/405a522d588721ef6cccfcd6958502a8.PNG"
+    },
+    {
+        "ImgName": "网易听歌识曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/2a450d54582baad9a5ae2d591976b34f.PNG"
+    },
+    {
+        "ImgName": "网易摇滚榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/acdf111882104f5564767020a3860ebf.PNG"
+    },
+    {
+        "ImgName": "网易新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1b0bf7774dab335171f81769fede6a2d.PNG"
+    },
+    {
+        "ImgName": "网易日语榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6c805e26c27b2e914b1c05b73aca2b4e.PNG"
+    },
+    {
+        "ImgName": "网易欧美新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/d456772be6154a56b2510043565e043d.PNG"
+    },
+    {
+        "ImgName": "网易欧美热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/ab9c156b5fffc53d7018a7c30339519b.PNG"
+    },
+    {
+        "ImgName": "网易民谣榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/0369a306faa9717459d451ff7450171f.PNG"
+    },
+    {
+        "ImgName": "网易热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/e2ebb9b5c3a91cd5ce7e6f32a1ac6f76.PNG"
+    },
+    {
+        "ImgName": "网易爆款榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6be124f7e80a3cf60b89fa76c23b023b.PNG"
+    },
+    {
+        "ImgName": "网易网络热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/38caefeec5359f9b28987bf3330a67d8.PNG"
+    },
+    {
+        "ImgName": "网易美国Billboard榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/3c8748f049de9c04f5c6c73cea10f6f1.PNG"
+    },
+    {
+        "ImgName": "网易说唱榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/750385508e001d415e84a3af1a79240b.PNG"
+    },
+    {
+        "ImgName": "网易韩语榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/33b326878e276efb1914a3dd464a2385.PNG"
+    },
+    {
+        "ImgName": "网易飙升榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/13a6a9ab9453dac7b4b984976079b8eb.PNG"
+    },
+    {
+        "ImgName": "耳机煲机[第三阶段]",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/3a644a0e11ecf833502f59e9a8d89d67.PNG"
+    },
+    {
+        "ImgName": "耳机煲机[第二阶段]",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1df36e4ea8ef8e9b14666ad60d3f9fb9.PNG"
+    },
+    {
+        "ImgName": "腾讯音乐人原创榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/0701076b6fcf8de6696ea92466a363a5.PNG"
+    },
+    {
+        "ImgName": "那些年用磁带听过的歌【国语】",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9539d89705acacdfb129363e9ab56bd1.PNG"
+    },
+    {
+        "ImgName": "那些年用磁带听过的歌【粤语】",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/cf937fdf80f93ddd30ca83af7fc0719e.PNG"
+    },
+    {
+        "ImgName": "那些超带感的音乐",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9096d70a4393ce72a8213c176a59bc9f.PNG"
+    },
+    {
+        "ImgName": "酷我ACG新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/e1b21b850036c7f69b7895dda351d54f.PNG"
+    },
+    {
+        "ImgName": "酷我DJ嗨歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1f62c790851f09c19846bc2e764fa2bd.PNG"
+    },
+    {
+        "ImgName": "酷我KTV点唱榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1dbb55b1406d004e99df0ea66e6e7ae5.PNG"
+    },
+    {
+        "ImgName": "酷我Vlog必备榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/0fe74e6affd66e4e5202ca283c24023d.PNG"
+    },
+    {
+        "ImgName": "酷我冬日恋曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/4075ea150aab813bdb14f388863ab18d.PNG"
+    },
+    {
+        "ImgName": "酷我古风音乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9ca8ba18f8b5a16d2fddaa06f32f6c16.PNG"
+    },
+    {
+        "ImgName": "酷我宝宝哄睡榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/abf5e595e75b26a95639e05956de74a9.PNG"
+    },
+    {
+        "ImgName": "酷我影视金曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/3b34c46626ee78d4f657990a5e40e945.PNG"
+    },
+    {
+        "ImgName": "酷我抖音歌曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/0a863181589e9e9ad2c636718d676e2e.PNG"
+    },
+    {
+        "ImgName": "酷我新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1ec528d79564003c6c0f0f28d9d51fd3.PNG"
+    },
+    {
+        "ImgName": "酷我最强翻唱榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/9184db84ef38e50e53efb26880e91f7f.PNG"
+    },
+    {
+        "ImgName": "酷我极品电音榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6783d83d3bed9009065b963e847c7149.PNG"
+    },
+    {
+        "ImgName": "酷我流行趋势榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1a346e94381b93cd6b3aa3f71df85b60.PNG"
+    },
+    {
+        "ImgName": "酷我热歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/b36c1ffe23b4ec6ff3b0e4a7c16e9f4a.PNG"
+    },
+    {
+        "ImgName": "酷我热评榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/cbbfa80eca381c84d8031784989dd205.PNG"
+    },
+    {
+        "ImgName": "酷我熬夜修仙榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/080063fccf159a8fa9fd3a98cfd476e9.PNG"
+    },
+    {
+        "ImgName": "酷我爆笑相声榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/167befd901302b7a5607934c2557cb0d.PNG"
+    },
+    {
+        "ImgName": "酷我睡前轻松榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/ba08de88543a4ddad234023db33a423f.PNG"
+    },
+    {
+        "ImgName": "酷我禅心佛乐榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/16b55d81372c09f63a082ba452aaf9d0.PNG"
+    },
+    {
+        "ImgName": "酷我经典怀旧榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/5f0526de478eaf3ac6d04784da96c8eb.PNG"
+    },
+    {
+        "ImgName": "酷我综艺榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/41c236154421cb5f0feac38df8638c8d.PNG"
+    },
+    {
+        "ImgName": "酷我网红新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/3ea14e210081fa1fdbc89f958ecee607.PNG"
+    },
+    {
+        "ImgName": "酷我跑步健身榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/7bb795f85527527885afad98f781383e.PNG"
+    },
+    {
+        "ImgName": "酷我车载嗨曲榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/da662d1bba9cb24958156d48fcfeec1b.PNG"
+    },
+    {
+        "ImgName": "酷我通勤路上榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/56e62c05aca830603504bec22d7f357f.PNG"
+    },
+    {
+        "ImgName": "酷我铃声榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/6048f62eb69ffce53c917155f4fbca76.PNG"
+    },
+    {
+        "ImgName": "酷我飙升榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/8ea7b49661c28ea647bd6f85dd938ecc.PNG"
+    },
+    {
+        "ImgName": "酷狗抖音DJ热歌",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/ab4c99601ac11d44021463391f323dd2.PNG"
+    },
+    {
+        "ImgName": "酷狗新歌榜",
+        "ImgUrl": "http://www.guozipeng.tk/AppMusic/Imags/1c13217f540302d8220052d4a3a7d20f.PNG"
+    }
+]
+        }
+    ]
+}
